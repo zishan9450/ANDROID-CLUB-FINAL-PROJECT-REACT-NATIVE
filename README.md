@@ -1,6 +1,11 @@
-# Weather-App-React-Native
+# Weather-with-integrated-fitness-calculater-App-React-Native
 
-![Image](https://cdn.dribbble.com/userupload/6958364/file/original-9ca93c2dd96a84d5364670135de826d4.png?resize=2048x1536)
+![IMG-20231023-WA0003](https://github.com/zishan9450/ANDROID-CLUB-FINAL-PROJECT-REACT-NATIVE/assets/98701216/45756ad1-6ad9-4539-bc8b-467245884ab4)
+![IMG-20231023-WA0006](https://github.com/zishan9450/ANDROID-CLUB-FINAL-PROJECT-REACT-NATIVE/assets/98701216/20a2a26e-dbb4-436e-be42-3c37f43fd172)
+![IMG-20231023-WA0004](https://github.com/zishan9450/ANDROID-CLUB-FINAL-PROJECT-REACT-NATIVE/assets/98701216/450203a5-0d73-40e4-be3f-3f8b426c2882)
+![IMG-20231023-WA0005](https://github.com/zishan9450/ANDROID-CLUB-FINAL-PROJECT-REACT-NATIVE/assets/98701216/684fc441-40cb-4068-9abb-ecb820b733b7)
+
+
 
 ## Get Started
 
